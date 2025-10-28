@@ -194,4 +194,4 @@ This project is a sophisticated embedded system centered around an 8051 microco
 
 ## Project Demo
 
-Watch the demo video: [YouTube Shorts - ChronoMetro Demo](https://youtube.com/shorts/ftqqADBZWs0)
+Watch the demo video: [YouTube Shorts - Real-time-Multifunctional-clock-with-8051-microcontrolle Demo](https://youtube.com/shorts/ftqqADBZWs0)
